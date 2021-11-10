@@ -1,0 +1,1 @@
+{ "minimum-stability": "dev", "require": { "furqansiddiqui/erc20-php": "dev-master", "kesar/ethereum-php": "dev-master" } }
